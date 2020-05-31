@@ -1,11 +1,11 @@
 # Site settings
 author: Mario Terrazas
-title: 
+title: Software Engineering the New Challenge 
 header-img: img/home-bg.png
 email: mtrrzs@hotmail.com
 copyright_name: Mario Terrazas
 description: > # this means to ignore newlines until "baseurl:"
-  
+  From Finance to Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mtrrzs
